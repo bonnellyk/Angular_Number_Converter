@@ -1,2 +1,9 @@
-# Angular_Number_Converter
-Simple Angular SPA to convert numbers (decimal, binary, hexa, octa)
+# Simple Angular Number Converter
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+Thanks to https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA
